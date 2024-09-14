@@ -1,0 +1,22 @@
+Gizlilik Politikası
+
+Bu uygulama, kullanıcıların gizliliğine en yüksek düzeyde önem vermektedir. Uygulama kullanıcılarından hiçbir kişisel bilgi, konum verisi veya herhangi bir başka veri toplamaz, saklamaz ya da üçüncü taraflarla paylaşmaz.
+
+1. Toplanan Veriler
+Bu uygulama, kullanıcılarından hiçbir kişisel bilgi toplamaz. Uygulama, kullanıcıların konum bilgilerine, telefon numaralarına veya cihazdaki diğer verilere erişmez.
+
+2. Veri Kullanımı
+Herhangi bir veri toplanmadığı için, kullanıcı verileri herhangi bir amaçla kullanılmaz, işlenmez veya paylaşılmaz.
+
+3. Çerezler ve İzleme Teknolojileri
+Bu uygulama, çerezler veya diğer izleme teknolojilerini kullanmaz. Uygulamanın tüm işlevleri, kullanıcıların veri sağlamasına gerek kalmadan tamamen çalışır.
+
+4. Üçüncü Taraf Hizmetleri
+Bu uygulama, herhangi bir üçüncü taraf hizmeti ile veri paylaşmaz veya entegre çalışmaz.
+
+5. Kullanıcı Hakları
+Kullanıcıların, bu uygulamanın herhangi bir kişisel veri toplamadığını ve işleme tabi tutmadığını bilmesi önemlidir. Kullanıcılar, gizlilikleri konusunda tamamen güvende olabilirler.
+
+6. Gizlilik Politikası Değişiklikleri
+Bu gizlilik politikası gelecekte değiştirilebilir. Değişiklikler olduğunda kullanıcılar bilgilendirilecektir. Ancak, verilerin toplanması ve kullanımıyla ilgili herhangi bir değişiklik yapılması durumunda kullanıcılar açıkça bilgilendirilecek ve onayları alınacaktır.
+
